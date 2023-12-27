@@ -1,4 +1,4 @@
-# Tic-TacToe
+# Tic-Tac-Toe
 
 Welcome to the Tic Tac Toe Game project! This is a simple implementation of the classic Tic Tac Toe game using Java and JavaFX. The game provides a graphical user interface for users to play against each other.
 
